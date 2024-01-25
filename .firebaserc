@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sijin-test-project": {
+      "hosting": {
+        "angular-new-app": [
+          "sijin-test-project"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sijin-test-project"
+  }
+}

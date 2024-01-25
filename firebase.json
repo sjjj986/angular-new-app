@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "angular-new-app",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "us-east1"
+      }
+    }
+  ]
+}
